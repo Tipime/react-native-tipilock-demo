@@ -2,10 +2,16 @@
 
 ## Getting started
 
-`$git clone https://github.com/Tipime/react-native-tipilock-demo.git`
+```clone
+$ git clone https://github.com/Tipime/react-native-tipilock-demo.git
 
-`$cd .\react-native-tipilock-demo\`
+$ cd .\react-native-tipilock-demo\
+```
 
-`$npm install`
+```install packages
+$ npm install
+```
 
-`$react-native run-android`
+```run on simulator/device
+$ react-native run-android
+```
