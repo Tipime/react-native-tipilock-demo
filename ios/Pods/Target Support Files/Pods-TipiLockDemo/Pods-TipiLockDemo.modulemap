@@ -1,6 +1,0 @@
-module Pods_TipiLockDemo {
-  umbrella header "Pods-TipiLockDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}

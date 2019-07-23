@@ -1,7 +1,7 @@
 {
-  "name": "TipiLockModule",
+  "name": "TtLockModule",
   "version": "1.0.0",
-  "summary": "TipiLockModule",
+  "summary": "TtLockModule",
   "description": "description",
   "homepage": "http://www.goole.com",
   "license": "MIT",
@@ -15,7 +15,7 @@
     "git": "https://github.com/author/RNTipiLockModule.git",
     "tag": "master"
   },
-  "source_files": "*.{h,m,swift}",
+  "source_files": "**/*.{h,m}",
   "requires_arc": true,
   "dependencies": {
     "React": [
